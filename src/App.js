@@ -12,7 +12,7 @@ class App extends Component {
           <div className="image-two" />
           <div className="paragraph-container">
             <p className="image-container__text" id="small-font">
-              Each Kindhood poncho is made from 70% sustainable bamboo fiber and
+              Random paragraph- Each Kindhood poncho is made from 70% sustainable bamboo fiber and
               30% cotton blend. Ponchos feature an ultra-soft, absorbent, and
               quick-drying terrycloth interior; a hood for warmth and
               protection; and a pouch pocket for your littles to keep their
