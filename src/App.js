@@ -23,12 +23,15 @@ class App extends Component {
         <div className="parallax-border" />
         <div className="image-container">
           <div className="image-three" />
-          <div className="paragraph-container">
+          <div className="paragraph-container form-container">
+            <div className='input-fields image-container__text'                     id='form-heading'>
+              Send us a Message to get a free quote
+            </div> 
             <form method="POST" className='image-container__text form'
                 action="https://formspree.io/timknapp12@gmail.com">
-              <input type="email" name="email" placeholder="Your email"/>
-              <textarea name="message" placeholder="Your message"></textarea>
-              <button type="submit">Send</button>
+              <input type="email" name="email" placeholder="Your email"             className='input-fields'/>
+              <textarea name="message" placeholder="Your message"                   className='input-fields' id='message'></textarea>
+              <button type="submit" className=''>Send</button>
             </form>
           </div>
         </div>
