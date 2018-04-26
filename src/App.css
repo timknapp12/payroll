@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+  position: relative;
+}
+
+.image-container {
+  position: relative;
+  width: 100%;
+  height: auto;
+}
+.main-image {
+  width: 100%;
+  height: auto;
+}
+
+.image-container__title {
+  position: absolute;
+  top: 50px;
+  width: 100%;
+  color: #5d5e5f;
+  font-size: 100px;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.parallax-border {
+  height: 70px;
+  width: 100%;
+}
+
+.paragrpah-container {
+  display: flex;
+  justify-content: center;
+}
+
+p {
+  width: 50%;
+  text-align: left;
+}
