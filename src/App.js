@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import "./App.css";
+
 import office from "../src/assets/office.jpg";
 
 class App extends Component {
@@ -7,7 +8,7 @@ class App extends Component {
     return (
       <div className="App">
         <div className="image-container">
-          <img alt="office" src={office} className="main-image" />
+          {/* <img alt="office" src={office} className="main-image" /> */}
           <div className="image-container__title">Payroll For Dummies</div>
         </div>
         <div className="parallax-border" />
