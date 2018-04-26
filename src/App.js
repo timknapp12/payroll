@@ -23,7 +23,7 @@ class App extends Component {
         <div className="parallax-border" />
         <div className="image-container">
           <div className="image-three" />
-          <div className="paragraph-container form-container">
+          <div className="paragraph-container">
             <div className='input-fields image-container__text'                     id='form-heading'>
               Send us a Message to get a free quote
             </div> 
