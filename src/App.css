@@ -37,13 +37,22 @@
   display: flex;
 }
 
+.Scrollchor:link {
+  text-decoration: none;
+  color: #5d5e5f;
+}
+
+.Scrollchor:visited {
+  color: #5d5e5f;
+}
+
 #cursor {
   cursor: pointer;
   margin-right: 20px;
 }
 
 #cursor:hover {
-  color: rgb(44, 39, 39);
+  color: black;
 }
 
 .parallax-border {
