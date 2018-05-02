@@ -25,6 +25,25 @@
   color: #5d5e5f;
   font-size: 100px;
   font-family: 'Open Sans Condensed', sans-serif;
+  display: flex;
+  flex-direction: column;
+}
+
+.three-headings {
+  font-size: 35px;
+  margin-top: 20px;
+  text-align: left;
+  align-self: center;
+  display: flex;
+}
+
+#cursor {
+  cursor: pointer;
+  margin-right: 20px;
+}
+
+#cursor:hover {
+  color: rgb(44, 39, 39);
 }
 
 .parallax-border {
@@ -165,6 +184,10 @@ button {
 @media (max-width: 750px) {
   #small-font {
     width: 80%;
+  }
+  .three-headings {
+    font-size: 25px;
+    flex-direction: column;
   }
 }
 
