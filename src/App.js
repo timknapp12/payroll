@@ -72,7 +72,7 @@ class App extends Component {
             </div> 
             <form method="POST" className='image-container__text form'
                 action="https://formspree.io/jessknapp@gmail.com">
-              <input type="email" name="email" placeholder="Your email"             className='input-fields'/>
+              <input type="email" name="_replyto" placeholder="Your email"             className='input-fields'/>
               <textarea name="message" placeholder="Your message"                   className='input-fields' id='message'></textarea>
               <button type="submit" className=''>Send</button>
             </form>
