@@ -17,7 +17,7 @@ class App extends Component {
           2) 3rd-Party Processor
           </span></Scrollchor>
           <Scrollchor className='Scrollchor' to='#employee-leasing'><span id='cursor'> 
-          3) Emplyee Leasing
+          3) Employee Leasing
           </span></Scrollchor>
             </div> 
          
