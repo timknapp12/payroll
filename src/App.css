@@ -69,12 +69,13 @@
 #small-font {
   font-size: 20px;
   width: 50%;
-  background-color: #5d5e5f;
+  background-color: white;
   padding: 20px;
   border-radius: 10px;
-  opacity: .8;
-  color: white;
+  opacity: .9;
+  color: #5d5e5f;
   letter-spacing: .7px;
+  font-weight: 700
 }
 
 .subheading {
