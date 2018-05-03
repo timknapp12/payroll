@@ -1,12 +1,21 @@
 import React, { Component } from "react";
 import "./App.css";
 import Scrollchor from 'react-scrollchor';
+import {Helmet} from "react-helmet";
 
 
 class App extends Component {
   render() {
     return (
       <div className="App">
+        <Helmet>
+          <meta charSet="utf-8" />
+          <title>Payroll for Dummies</title>
+          <link rel="canonical" href="http://mysite.com/example" />
+          <meta name="description" content="payroll for dummies, a website explaining different ways for small businesses in Utah to handle payroll, such as employee leasing" />
+          <meta name='keywords' content='payroll, payroll for dummies, quote, employee leasing, utah'/>
+          <meta name='robots' content='index, follow'/>
+        </Helmet>
         <div className="image-container" />
         <div className="image-container__text">Payroll For Dummies
           <div className='three-headings'>
