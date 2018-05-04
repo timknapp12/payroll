@@ -225,4 +225,22 @@ button:hover {
     height: 100%;
     width: 100%;
   }
+  .image-container {
+    background-image: url('../src/assets/office3.jpg');
+  }
+  .image-two {
+    background-image: url('../src/assets/office4.jpg');
+  }
+  .image-three {
+    background-image: url('../src/assets/building2.jpg');
+  }
+  .image-four {
+    background-image: url('../src/assets/girl2.jpg');
+  }
+  .image-five {
+    background-image: url('../src/assets/beard2.jpg');
+  }
+  .final-image {
+    background-image: url('../src/assets/typing2.jpg');
+  }
 }
