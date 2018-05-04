@@ -203,6 +203,7 @@ button:hover {
 @media (max-width: 750px) {
   #small-font {
     width: 80%;
+    font-size: 18px;
   }
   .three-headings {
     font-size: 25px;
@@ -216,5 +217,9 @@ button:hover {
   }
   #form-heading {
     width: 75%;
+  }
+  #small-font {
+    width: 80%;
+    font-size: 16px;
   }
 }
