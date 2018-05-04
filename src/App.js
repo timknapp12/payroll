@@ -65,7 +65,7 @@ class App extends Component {
         <div className="image-container">
           <div className="image-four" />
           <div className="paragraph-container">
-            <div className="image-container__text" id="small-font">  
+            <div className="image-container__text last-paragraph" id="small-font">  
             <p className='subheading' id='employee-leasing'>3) Employee Leasing:</p>
             In the state of UT. There is a designation that can be obtained whereby a payroll co. can enter a co-employment relationship (or employee leasing) with you.  They become the employer of record for your employees.  You still manage, hire, fire and determine pay to your employees as you have always done, but on paper the employees are paid by the co-employer under their tax withholding accounts.  For the right companies this has some advantages in that you get to close your withholding accounts and not have that lingering over your head. No risk of late filings or penalties.  They also handle all the paperwork associated with Payroll and tax filings.  Your company still pays the invoice for the total payroll burden for the employees but it’s a simple invoice with one line item to be reconciled in the company’s books.  This can be a great solution for the small and medium sized businesses who need to focus on their core business and simplify the paperwork and administration of payroll.  There can be added benefits included like Workers Comp management, new employee e-hire, Unemployment Insurance claims, Garnishment procedures, participation in large group benefits (dental, vision, 401K etc.).
             </div>

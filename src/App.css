@@ -219,7 +219,10 @@ button:hover {
     width: 75%;
   }
   #small-font {
-    width: 80%;
-    font-size: 14px;
+    font-size: 16px;
+  }
+  .image-two {
+    height: 100%;
+    width: 100%;
   }
 }
