@@ -227,22 +227,26 @@ button:hover {
   }
   .image-container {
     background-image: url('../src/assets/office3.jpg');
+    background-size: 550px;
   }
   .image-two {
     background-image: url('../src/assets/office4.jpg');
+    background-size: 550px;
   }
   .image-three {
-    background-image: url('../src/assets/building3.jpg');
-    background-size: 450px 850px;
+    background-image: url('../src/assets/building2.jpg');
+    background-size: 550px;
   }
   .image-four {
     background-image: url('../src/assets/girl2.jpg');
+    background-size: 550px;
   }
   .image-five {
     background-image: url('../src/assets/beard2.jpg');
+    background-size: 550px;
   }
   .final-image {
     background-image: url('../src/assets/typing2.jpg');
-    background-size: 500px 850px;
+    background-size: 550px;
   }
 }
