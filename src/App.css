@@ -233,6 +233,7 @@ button:hover {
   }
   .image-three {
     background-image: url('../src/assets/building3.jpg');
+    background-size: 450px 850px;
   }
   .image-four {
     background-image: url('../src/assets/girl2.jpg');
@@ -242,5 +243,6 @@ button:hover {
   }
   .final-image {
     background-image: url('../src/assets/typing2.jpg');
+    background-size: 500px 850px;
   }
 }
