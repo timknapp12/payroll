@@ -226,10 +226,10 @@ button:hover {
     width: 100%;
   }
   .image-container {
-    /* background-image: url('../src/assets/office3.jpg'); */
-    background-image: none;
+    background-image: url('../src/assets/office3.jpg');
+    /* background-image: none; */
     background-size: 550px;
-    background-color: lightblue;
+    /* background-color: lightblue; */
   }
   .image-two {
     /* background-image: url('../src/assets/office4.jpg'); */
@@ -248,6 +248,7 @@ button:hover {
     background-image: none;
     background-size: 550px;
     background-color: lightseagreen;
+    height: 120vh;
   }
   .image-five {
     /* background-image: url('../src/assets/beard2.jpg'); */
@@ -260,5 +261,8 @@ button:hover {
     background-image: none;
     background-size: 630px;
     background-color: lightcoral;
+  }
+  #last-parallax {
+    margin-top: 20vh;
   }
 }

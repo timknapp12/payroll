@@ -71,7 +71,7 @@ class App extends Component {
             </div>
           </div>
         </div>
-        <div className="parallax-border" />
+        <div className="parallax-border" id='last-parallax' />
         <div className="image-container">
           <div className="final-image" />
           <div className="paragraph-container">
