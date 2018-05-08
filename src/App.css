@@ -226,27 +226,39 @@ button:hover {
     width: 100%;
   }
   .image-container {
-    background-image: url('../src/assets/office3.jpg');
+    /* background-image: url('../src/assets/office3.jpg'); */
+    background-image: none;
     background-size: 550px;
+    background-color: lightblue;
   }
   .image-two {
-    background-image: url('../src/assets/office4.jpg');
+    /* background-image: url('../src/assets/office4.jpg'); */
+    background-image: none;
     background-size: 550px;
+    background-color: lightseagreen;
   }
   .image-three {
-    background-image: url('../src/assets/building2.jpg');
+    /* background-image: url('../src/assets/building2.jpg');*/
+    background-image: none;
     background-size: 550px;
+    background-color: lightblue;
   }
   .image-four {
-    background-image: url('../src/assets/girl2.jpg');
+    /* background-image: url('../src/assets/girl2.jpg'); */
+    background-image: none;
     background-size: 550px;
+    background-color: lightseagreen;
   }
   .image-five {
-    background-image: url('../src/assets/beard2.jpg');
+    /* background-image: url('../src/assets/beard2.jpg'); */
     background-size: 550px;
+    background-image: none;
+    background-color: lightcoral;
   }
   .final-image {
-    background-image: url('../src/assets/typing2.jpg');
-    background-size: 550px;
+    /* background-image: url('../src/assets/typing2.jpg'); */
+    background-image: none;
+    background-size: 630px;
+    background-color: lightcoral;
   }
 }
