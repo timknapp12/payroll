@@ -1,3 +1,11 @@
+This project is a marketing landing page aimed to give information and then provide the user with an opportunity to submit a form requesting a quote on payroll services. 
+It is a fairly short and simple app, just front-end built in React. I used professional high-definition images and parallax to create a modern, clean and professional look. There is a front-end contact form service called "Formspree" that sends the form information in an email to the specified email address, thus elimintaing the need for a server-based contact form.
+The site contains media queries so it is mobile responsive as well.
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
