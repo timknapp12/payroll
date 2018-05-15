@@ -236,8 +236,8 @@ button:hover {
     /* background-image: none; */
     /* background-size: 550px; */
     /* background-color: lightblue; */
-    background-size: cover;
-    -webkit-background-size: cover;
+    background-size: 550px 1850px;
+    -webkit-background-size: 550px 1850px;
 
   }
   .image-two {
@@ -245,8 +245,8 @@ button:hover {
     /* background-image: none;
     background-size: 550px;
     background-color: lightseagreen; */
-    background-size: auto;
-    -webkit-background-size: auto;
+    background-size: 550px 1850px;
+    -webkit-background-size: 550px 1850px;
 
   }
   .image-three {
@@ -254,8 +254,8 @@ button:hover {
     /* background-image: none;
     background-size: 550px;
     background-color: lightblue; */
-    background-size: 550px;
-    -webkit-background-size: 550px;
+    background-size: 550px 1850px;
+    -webkit-background-size: 550px 1850px;
 
   }
   .image-four {
@@ -264,24 +264,24 @@ button:hover {
     background-size: 550px;
     background-color: lightseagreen;
     height: 120vh; */
-    background-size: 550px 1550px;
-    -webkit-background-size: 550px 1550px;
+    background-size: 550px 1850px;
+    -webkit-background-size: 550px 1850px;
   }
   .image-five {
     background-image: url('../src/assets/beard2.jpg');
     /* background-size: 550px;
     background-image: none;
     background-color: lightcoral; */
-    background-size: 550px 1550px;
-    -webkit-background-size: 550px 1550px;
+    background-size: 550px 1850px;
+    -webkit-background-size: 550px 1850px;
   }
   .final-image {
     background-image: url('../src/assets/typing2.jpg');
     /* background-image: none;
     background-size: 630px;
     background-color: lightcoral; */
-    background-size: contain;
-    -webkit-background-size: contain;
+    background-size: 550px 1850px;
+    -webkit-background-size: 550px 1850px;
   }
   #last-parallax {
     margin-top: 20vh;
