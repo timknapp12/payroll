@@ -236,18 +236,27 @@ button:hover {
     /* background-image: none; */
     /* background-size: 550px; */
     /* background-color: lightblue; */
+    background-size: cover;
+    -webkit-background-size: cover;
+
   }
   .image-two {
     background-image: url('../src/assets/office4.jpg');
     /* background-image: none;
     background-size: 550px;
     background-color: lightseagreen; */
+    background-size: auto;
+    -webkit-background-size: auto;
+
   }
   .image-three {
     background-image: url('../src/assets/building2.jpg');
     /* background-image: none;
     background-size: 550px;
     background-color: lightblue; */
+    background-size: 550px;
+    -webkit-background-size: 550px;
+
   }
   .image-four {
     background-image: url('../src/assets/girl2.jpg');
@@ -255,18 +264,24 @@ button:hover {
     background-size: 550px;
     background-color: lightseagreen;
     height: 120vh; */
+    background-size: 550px;
+    -webkit-background-size: 550px;
   }
   .image-five {
     background-image: url('../src/assets/beard2.jpg');
     /* background-size: 550px;
     background-image: none;
     background-color: lightcoral; */
+    background-size: 220px 550px;
+    -webkit-background-size: 220px 550px;
   }
   .final-image {
     background-image: url('../src/assets/typing2.jpg');
     /* background-image: none;
     background-size: 630px;
     background-color: lightcoral; */
+    background-size: contain;
+    -webkit-background-size: contain;
   }
   #last-parallax {
     margin-top: 20vh;
