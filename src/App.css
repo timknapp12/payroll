@@ -264,16 +264,16 @@ button:hover {
     background-size: 550px;
     background-color: lightseagreen;
     height: 120vh; */
-    background-size: 550px 2000px;
-    -webkit-background-size: 550px 2000px;
+    background-size: 550px 1550px;
+    -webkit-background-size: 550px 1550px;
   }
   .image-five {
     background-image: url('../src/assets/beard2.jpg');
     /* background-size: 550px;
     background-image: none;
     background-color: lightcoral; */
-    background-size: 550px 1850px;
-    -webkit-background-size: 550px 1850px;
+    background-size: 550px 1550px;
+    -webkit-background-size: 550px 1550px;
   }
   .final-image {
     background-image: url('../src/assets/typing2.jpg');
