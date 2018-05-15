@@ -236,8 +236,8 @@ button:hover {
     /* background-image: none; */
     /* background-size: 550px; */
     /* background-color: lightblue; */
-    background-size: 550px 1850px;
-    -webkit-background-size: 550px 1850px;
+    background-size: 250px 1050px;
+    -webkit-background-size: 250px 1050px;
 
   }
   .image-two {
@@ -245,8 +245,8 @@ button:hover {
     /* background-image: none;
     background-size: 550px;
     background-color: lightseagreen; */
-    background-size: 550px 1850px;
-    -webkit-background-size: 550px 1850px;
+    background-size: 250px 1050px;
+    -webkit-background-size: 250px 1050px;
 
   }
   .image-three {
