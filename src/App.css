@@ -12,6 +12,7 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  -webkit-background-size: cover;
 }
 .main-image {
   width: 100%;
@@ -91,6 +92,7 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  -webkit-background-size: cover;
 }
 .image-three {
   position: relative;
@@ -101,6 +103,7 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  -webkit-background-size: cover;
 }
 .image-four {
   position: relative;
@@ -111,6 +114,7 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  -webkit-background-size: cover;
 }
 .image-five {
   position: relative;
@@ -121,6 +125,7 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  -webkit-background-size: cover;
 }
 
 .final-image {
@@ -132,6 +137,7 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  -webkit-background-size: cover;
 }
 
 .form {
