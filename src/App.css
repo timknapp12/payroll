@@ -272,8 +272,8 @@ button:hover {
     /* background-size: 550px;
     background-image: none;
     background-color: lightcoral; */
-    background-size: 220px 550px;
-    -webkit-background-size: 220px 550px;
+    background-size: 720px 550px;
+    -webkit-background-size: 720px 550px;
   }
   .final-image {
     background-image: url('../src/assets/typing2.jpg');
