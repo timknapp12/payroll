@@ -233,12 +233,12 @@ button:hover {
     width: 100%;
   }
   .image-container {
-    background-image: url('../src/assets/office.jpg');
+    /* background-image: url('../src/assets/office.jpg'); */
     /* background-image: none; */
     /* background-size: 550px; */
     /* background-color: lightblue; */
-    background-size: 100%;
-    -webkit-background-size: 100%;
+    /* background-size: 100%;
+    -webkit-background-size: 100%; */
 
   }
   .image-two {
