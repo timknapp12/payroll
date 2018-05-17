@@ -275,16 +275,16 @@ button:hover {
     /* background-size: 550px;
     background-image: none;
     background-color: lightcoral; */
-    background-size: 550px 1850px;
-    -webkit-background-size: 550px 1850px;
+    background-size: 100%;
+    -webkit-background-size: 100%;
   }
   .final-image {
     background-image: url('../src/assets/typing2.jpg');
     /* background-image: none;
     background-size: 630px;
     background-color: lightcoral; */
-    background-size: 550px 1850px;
-    -webkit-background-size: 550px 1850px;
+    background-size: 100%;
+    -webkit-background-size: 100%;
   }
   #last-parallax {
     margin-top: 20vh;
