@@ -232,21 +232,21 @@ button:hover {
     width: 100%;
   }
   .image-container {
-    background-image: url('../src/assets/office3.jpg');
+    background-image: url('../src/assets/office.jpg');
     /* background-image: none; */
     /* background-size: 550px; */
     /* background-color: lightblue; */
-    /* background-size: 250px 1050px;
-    -webkit-background-size: 250px 1050px; */
+    background-size: 100%;
+    -webkit-background-size: 100%;
 
   }
   .image-two {
-    background-image: url('../src/assets/office4.jpg');
+    background-image: url('../src/assets/office2.jpg');
     /* background-image: none;
     background-size: 550px;
     background-color: lightseagreen; */
-    background-size: 250px 1050px;
-    -webkit-background-size: 250px 1050px;
+    background-size: 100%;
+    -webkit-background-size: 100%;
 
   }
   .image-three {
