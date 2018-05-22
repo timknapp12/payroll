@@ -22,7 +22,7 @@ class App extends Component {
           />
           <meta name="robots" content="index, follow" />
         </Helmet>
-        
+
         <div className="image-container" >
           <div className="image-container__text">
             Payroll For Dummies
@@ -105,12 +105,13 @@ class App extends Component {
           <div className="image-four" />
           <div className="paragraph-container">
             <div
-              className="image-container__text last-paragraph"
-              id="small-font"
+              className="image-container__text"
+              id="final-paragraph"
             >
-              <p className="subheading" id="employee-leasing">
+              <p className="subheading" id="employee-leasing ">
                 3) Employee Leasing:
-              </p>
+              </p >
+              <p id='' >
               In the state of UT. There is a designation that can be obtained
               whereby a payroll co. can enter a co-employment relationship (or
               employee leasing) with you. They become the employer of record for
@@ -130,6 +131,7 @@ class App extends Component {
               management, new employee e-hire, Unemployment Insurance claims,
               Garnishment procedures, participation in large group benefits
               (dental, vision, 401K etc.).
+              </p>
             </div>
           </div>
         </div>

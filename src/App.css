@@ -79,6 +79,18 @@
   font-weight: 700
 }
 
+#final-paragraph {
+  font-size: 20px;
+  width: 50%;
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  opacity: .9;
+  color: #5d5e5f;
+  letter-spacing: .8px;
+  font-weight: 700
+}
+
 .subheading {
   letter-spacing: 1.5px;
 }
@@ -199,6 +211,9 @@ button:hover {
   #small-font {
     width: 70%;
   }
+  #final-paragraph {
+    width: 70%;
+  }
   .form {
     width: 50%;
   }
@@ -212,13 +227,14 @@ button:hover {
     width: 80%;
     font-size: 18px;
   }
+  #final-paragraph {
+    width: 80%;
+    font-size: 18px;
+  }
   .three-headings {
     font-size: 25px;
     flex-direction: column;
   }
-  /* .image-container {
-    background-image: url('../src/assets/computer-3246121_1280.jpg')
-  } */
 }
 
 @media (max-width: 450px) {
@@ -235,65 +251,7 @@ button:hover {
     height: 100%;
     width: 100%;
   }
+  #final-paragraph {
+    font-size: 15px;
+  }
 }
-  /* .image-container {
-    background-image: url('../src/assets/computer-3246121_640.jpg'); */
-
-    /* background-image: url('../src/assets/office.jpg'); */
-    /* background-image: none; */
-    /* background-size: 550px; */
-    /* background-color: lightblue; */
-    /* background-size: 100%;
-    -webkit-background-size: 100%; */
-
-  /* } */
-  /* .image-two {
-    background-image: url('../src/assets/office2.jpg'); */
-    /* background-image: none;
-    background-size: 550px;
-    background-color: lightseagreen; */
-    /* background-size: 100%;
-    -webkit-background-size: 100%; */
-
-  /* } */
-
-  /* .image-three {
-    background-image: url('../src/assets/building2.jpg'); */ 
-    /* background-image: none;
-    background-size: 550px;
-    background-color: lightblue;
-    background-size: 550px 1850px;
-    -webkit-background-size: 550px 1850px;
-
-  }
-  .image-four {
-    /* same image as above */
-
-    /* background-image: url('../src/assets/girl2.jpg'); */
-    /* background-image: none;
-    background-size: 550px;
-    background-color: lightseagreen;
-    height: 120vh; */
-    /* background-size: 500px 1000px;
-    -webkit-background-size: 500px 1000px;
-  }
-  .image-five {
-    background-image: url('../src/assets/beard2.jpg'); */
-    /* background-size: 550px;
-    background-image: none;
-    background-color: lightcoral; */
-    /* background-size: 100%;
-    -webkit-background-size: 100%;
-  } */
-  /* .final-image {
-    background-image: url('../src/assets/typing2.jpg'); */
-    /* background-image: none;
-    background-size: 630px;
-    background-color: lightcoral; */
-    /* background-size: 100%;
-    -webkit-background-size: 100%;
-  } */
-  /* #last-parallax {
-    margin-top: 20vh;
-  }
-} */
